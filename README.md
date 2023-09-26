@@ -1,16 +1,12 @@
 # Hi, I'm Mohamed Amir 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed--Amiir-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamed-amiir/)
-[![GitHub](https://img.shields.io/badge/GitHub-Mohamed22198-blue?style=for-the-badge&logo=github)](https://github.com/Mohamed22198)
+[![Gmail](https://img.shields.io/badge/Gmail-Mohamed_Amir-blue?style=for-the-badge&logo=gmail)](mooamir90@gmail.com)
 
 ### 🚀 Junior Software Developer
 
-📧 Email: mooamir90@gmail.com
-
 ---
 
-## 💡 Summary
-
-I'm a highly skilled computer science student with a strong background in solid grasp of computer science and programming fundamentals. I bring creativity to coding and thrive in solving complex problems. My focus lies in backend development, where I craft robust and efficient solutions. I'm an effective team player and leader with excellent problem-solving and research skills. A quick learner, I adapt seamlessly to different technologies and tools, with a keen awareness of backend development principles and practices.
+Highly skilled computer science student with a strong background in solid grasp of computer science and programming fundamentals. I bring creativity to coding and thrive in solving complex problems. My focus lies in backend development, where I craft robust and efficient solutions. I'm an effective team player and leader with excellent problem-solving and research skills. A quick learner, I adapt seamlessly to different technologies and tools, with a keen awareness of backend development principles and practices.
 
 ---
 
