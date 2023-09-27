@@ -1,8 +1,10 @@
 # Hi, I'm Mohamed Amir 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed--Amiir-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamed-amiir/)
-[![Gmail](https://img.shields.io/badge/Gmail-Mohamed_Amir-blue?style=for-the-badge&logo=gmail)](mooamir90@gmail.com)
-
 ### 🚀 Junior Software Developer
+
+[![LinkedIn](https://img.icons8.com/?size=40&id=xuvGCOXi8Wyg&format=png)](https://linkedin.com/in/mohamed-amiir/)
+[![Gmail](https://img.icons8.com/?size=40&id=qyRpAggnV0zH&format=png)](mooamir90@gmail.com)
+[![Facebook](https://img.icons8.com/?size=40&id=yGcWL8copNNQ&format=png)](https://www.facebook.com/profile.php?id=100009078180663)
+[![WhatsApp](https://img.icons8.com/?size=40&id=16713&format=png)](wa.link/cm9xce)
 
 ---
 
@@ -14,32 +16,33 @@ Highly skilled computer science student with a strong background in solid grasp 
 
 ### 💻 Programming Languages
 
-![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp)
-![C/C++](https://img.shields.io/badge/C/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java)
+![C#](https://img.icons8.com/?size=55&id=55251&format=png)
+![C/C++](https://img.icons8.com/?size=55&id=40669&format=png)
+![JavaScript](https://img.icons8.com/?size=55&id=108784&format=png)
+![Python](https://img.icons8.com/?size=55&id=13441&format=png)
+![Java](https://img.icons8.com/?size=55&id=13679&format=png)
 
 ### 🌐 Front-End
 
-![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-%23E34F26?style=for-the-badge&logo=html5)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript)
-
+![HTML](https://img.icons8.com/?size=55&id=20909&format=png)
+![CSS](https://img.icons8.com/?size=55&id=21278&format=png)
+![JavaScript](https://img.icons8.com/?size=55&id=108784&format=png)
+![React](https://img.icons8.com/?size=55&id=123603&format=png)
 ### 🚀 Back-End
 
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-%23000000?style=for-the-badge&logo=rest)
-
+![Node.js](https://img.icons8.com/?size=55&id=54087&format=png)
+![Express.js](https://img.icons8.com/?size=55&id=PZQVBAxaueDJ&format=png)
+![NPM](https://img.icons8.com/?size=55&id=24895&format=png)
+![REST APIs](https://img.icons8.com/?size=55&id=21888&format=png)
 ### 🗄️ Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb)
-![SQL](https://img.shields.io/badge/SQL-%23008080?style=for-the-badge&logo=postgresql)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle)
+![MongoDB](https://img.icons8.com/?size=55&id=74402&format=png)
+![MySQL](https://img.icons8.com/?size=55&id=UFXRpPFebwa2&format=png)
+![Oracle](https://img.icons8.com/?size=55&id=39913&format=png)
 
 ### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode)
-![UML](https://img.shields.io/badge/UML-%23000000?style=for-the-badge&logo=umldiagrams)
-![Office](https://img.shields.io/badge/Office-%23D83B01?style=for-the-badge&logo=microsoftoffice)
+![Git](https://img.icons8.com/?size=55&id=20906&format=png)
+![GitHub](https://img.icons8.com/?size=55&id=106562&format=png)
+![VS Code](https://img.icons8.com/?size=55&id=9OGIyU8hrxW5&format=png)
+![Postman](https://img.icons8.com/?size=55&id=EPbEfEa7o8CB&format=png)
+
