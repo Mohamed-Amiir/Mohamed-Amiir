@@ -27,7 +27,6 @@ Highly skilled computer science student with a strong background in solid grasp 
 ![HTML](https://img.icons8.com/?size=55&id=20909&format=png)
 ![CSS](https://img.icons8.com/?size=55&id=21278&format=png)
 ![JavaScript](https://img.icons8.com/?size=55&id=108784&format=png)
-![React](https://img.icons8.com/?size=55&id=123603&format=png)
 ### 🚀 Back-End
 
 ![Node.js](https://img.icons8.com/?size=55&id=54087&format=png)
