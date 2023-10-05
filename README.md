@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Amir 👋
+# Hi, I'm Shams 👋
 ### 🚀 Junior Software Developer
 
 [![LinkedIn](https://img.icons8.com/?size=40&id=xuvGCOXi8Wyg&format=png)](https://linkedin.com/in/mohamed-amiir/)
