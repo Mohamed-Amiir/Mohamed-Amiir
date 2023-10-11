@@ -1,47 +1,67 @@
-# Hi, I'm Mohamed 👋
-### 🚀 Junior Software Developer
+<h1 align="center">Hi 👋, I'm Mohamed Amir</h1>
+<h3 align="center">Junior Software Developer</h3>
 
-[![LinkedIn](https://img.icons8.com/?size=40&id=xuvGCOXi8Wyg&format=png)](https://linkedin.com/in/mohamed-amiir/)
-[![Gmail](https://img.icons8.com/?size=40&id=qyRpAggnV0zH&format=png)](mooamir90@gmail.com)
-[![Facebook](https://img.icons8.com/?size=40&id=yGcWL8copNNQ&format=png)](https://www.facebook.com/profile.php?id=100009078180663)
-[![WhatsApp](https://img.icons8.com/?size=40&id=16713&format=png)](wa.link/cm9xce)
+- 🌱 I’m currently learning **Backend using Node.js**
 
----
+<h3 align="left">Connect with me:</h3>
+<div align="center">
+<a href="mailto:mooamir90@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23F45.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Mohamed22198" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/mohamed-amiir/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
-Highly skilled computer science student with a strong background in solid grasp of computer science and programming fundamentals. I bring creativity to coding and thrive in solving complex problems. My focus lies in backend development, where I craft robust and efficient solutions. I'm an effective team player and leader with excellent problem-solving and research skills. A quick learner, I adapt seamlessly to different technologies and tools, with a keen awareness of backend development principles and practices.
 
----
 
-## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+<h3 align="left">Frontend</h3>
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+</div>
 
-![C#](https://img.icons8.com/?size=55&id=55251&format=png)
-![C/C++](https://img.icons8.com/?size=55&id=40669&format=png)
-![JavaScript](https://img.icons8.com/?size=55&id=108784&format=png)
-![Python](https://img.icons8.com/?size=55&id=13441&format=png)
-![Java](https://img.icons8.com/?size=55&id=13679&format=png)
 
-### 🌐 Front-End
+<h3 align="left">Backend</h3>
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="50"/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />    
+</div>
 
-![HTML](https://img.icons8.com/?size=55&id=20909&format=png)
-![CSS](https://img.icons8.com/?size=55&id=21278&format=png)
-![JavaScript](https://img.icons8.com/?size=55&id=108784&format=png)
-### 🚀 Back-End
+<h3 align="left">Tools</h3>
 
-![Node.js](https://img.icons8.com/?size=55&id=54087&format=png)
-![Express.js](https://img.icons8.com/?size=55&id=PZQVBAxaueDJ&format=png)
-![NPM](https://img.icons8.com/?size=55&id=24895&format=png)
-![REST APIs](https://img.icons8.com/?size=55&id=21888&format=png)
-### 🗄️ Databases
+<div align="center">  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50"/>
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" />  
+</div>
 
-![MongoDB](https://img.icons8.com/?size=55&id=74402&format=png)
-![MySQL](https://img.icons8.com/?size=55&id=UFXRpPFebwa2&format=png)
-![Oracle](https://img.icons8.com/?size=55&id=39913&format=png)
 
-### 🛠️ Tools
-![Git](https://img.icons8.com/?size=55&id=20906&format=png)
-![GitHub](https://img.icons8.com/?size=55&id=106562&format=png)
-![VS Code](https://img.icons8.com/?size=55&id=9OGIyU8hrxW5&format=png)
-![Postman](https://img.icons8.com/?size=55&id=EPbEfEa7o8CB&format=png)
 
+## My Stats
+
+<br/>
+
+
+<div>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Mohamed22198&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed22198&theme=radical&hide_border=true" />
+</div>
+<br>
+
+
+<div>
+<img width="49.5%" align="top" src="https://github-profile-trophy.vercel.app/?username=Mohamed22198&theme=radical&row=2&column=3&no-frame=true&no-bg=false&margin-w=5&margin-h=5" />
+<img width="49.5%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed22198&layout=compact&theme=radical&hide_border=true&langs_count=12&hide=jupyter%20notebook" />  
+ </div>
+ 
