@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amir</h1>
 <h3 align="center">Junior Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed22198&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed22198" /> </p>
-- 🌱 I’m currently learning **Backend using Node.js**
+- 🌱 I’m currently learning MERN stack development
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
@@ -20,10 +20,11 @@
 
 <h3 align="left">Frontend</h3>
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" height="50" />  
 </div>
 
 
@@ -31,12 +32,12 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="50"/>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />    
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" height="50" />   
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js" height="50" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" height="50" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="SQL" height="50" />    
 </div>
 
