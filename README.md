@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amir</h1>
 <h3 align="center">Junior Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed22198&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed22198" /> </p>
-- 🌱 I’m currently learning MERN stack development
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
+- 🌱 I’m currently learning MERN stack development
+ 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
 <a href="mailto:mooamir90@gmail.com" target="_blank">
@@ -19,22 +21,30 @@
 
 
 <h3 align="left">Frontend</h3>
-<div align="center">  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<div align="left">  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px"     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+ alt="CSS3" height="50" />  
+<img style="margin: 10px"     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+ alt="JavaScript" height="50" />  
+<img style="margin: 10px"     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+ alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" height="50" />  
 </div>
 
 
 <h3 align="left">Backend</h3>
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="50"/>
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<div align="left">  
+<img style="margin: 10px"     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg"
+ alt="C++" height="50" />  
+<img style="margin: 10px"     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg"
+ alt="csharp" height="50"/>
+<img style="margin: 10px"     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
+ alt="Python" height="50" /> 
+<img style="margin: 10px"     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+ alt="JavaScript" height="50" />  
+<img style="margin: 10px"     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+ alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" height="50" />   
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js" height="50" />
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" height="50" />    
@@ -43,10 +53,11 @@
 
 <h3 align="left">Tools</h3>
 
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50"/>
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" />  
+<img style="margin: 10px"     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+ alt="git" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="oracle" height="50" /> 
 </div>
 
