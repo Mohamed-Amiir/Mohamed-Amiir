@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amir</h1>
 <h3 align="center">Junior Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed22198&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed22198" /> </p>
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+<img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif"/>
 
 - 🌱 I’m currently learning MERN stack development
  
