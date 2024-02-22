@@ -49,6 +49,7 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js" height="50" />
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" height="50" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="SQL" height="50" />    
+<img style="margin: 10px" src="https://socket.io/images/logo-dark.svg" alt="Socket.io" height="50" />    
 </div>
 
 <h3 align="left">Tools</h3>
