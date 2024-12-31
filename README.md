@@ -55,7 +55,7 @@
 
 <div>
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Amiir&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Amiir&theme=radical&hide_border=true" />
+<!--     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Amiir&theme=radical&hide_border=true" /> -->
 </div>
 <br>
 
