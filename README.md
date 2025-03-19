@@ -20,7 +20,7 @@
 
 
 
-<h3 align="left">Skills</h3>
+<h3 align="left">Skills & Tools</h3>
 <div align="left">  
 <img style="margin: 10px"     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg"alt="C++" height="40" />  
 <img style="margin: 10px"     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg"alt="csharp" height="40"/>
@@ -35,12 +35,6 @@
 <img style="margin: 10px"     src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="SQL" height="40" />    
 <img style="margin: 10px"     src="https://socket.io/images/logo-dark.svg" alt="Socket.io" height="40" />    
 <img style="margin: 10px"     src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" height="40" />  
-
-</div>
-
-<h3 align="left">Tools</h3>
-
-<div align="left">  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"alt="git" height="40" />  
@@ -50,18 +44,12 @@
 
 
 
+
 <br/>
 
 
 <div>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Amiir&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-<!--     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Amiir&theme=radical&hide_border=true" /> -->
-</div>
-<br>
-
-
-<div>
-<img width="49.5%" align="top" src="https://github-profile-trophy.vercel.app/?username=Mohamed-Amiir&theme=radical&row=2&column=3&no-frame=true&no-bg=false&margin-w=5&margin-h=5" />
-<img width="49.5%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Amiir&layout=compact&theme=radical&hide_border=true&langs_count=12&hide=jupyter%20notebook" />  
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Amiir&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="30%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Amiir&layout=compact&theme=radical&hide_border=true&langs_count=12&hide=jupyter%20notebook" />  
  </div>
  
