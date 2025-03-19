@@ -49,7 +49,7 @@
 
 
 <div>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Amiir&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="30%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Amiir&layout=compact&theme=radical&hide_border=true&langs_count=12&hide=jupyter%20notebook" />  
+  <img width="58.2%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Amiir&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Amiir&layout=compact&theme=radical&hide_border=true&langs_count=12&hide=jupyter%20notebook" />  
  </div>
  
